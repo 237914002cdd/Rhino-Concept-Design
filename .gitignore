@@ -1,3 +1,25 @@
 
 # turnover-prediction 已独立为单项目仓库
 /turnover-prediction/
+
+# projects/ 下各项目已独立建库，排除根仓库跟踪
+/projects/
+/skill-imports/
+.vite/
+.agents/
+.claude/
+
+# 个人/临时文件
+*.db
+*.png
+*.json
+*.txt
+WPS文档/
+陈政堡-简历-*.docx
+test-api5.json
+gap-analysis.md
+session-state.json
+skills-lock.json
+pdf_raw.txt
+screenshot_clipvault.png
+.git.backup/
