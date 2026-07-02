@@ -323,7 +323,7 @@ for ws in [ws1, ws2, ws3, ws4, ws5]:
     ws.column_dimensions['A'].width = 24
 
 # Save and open
-base = "D:/claude code mode/files/H2_Arch/projects/商务酒店_V3"
+base = "D:/claude code mode/files/MassForge/projects/商务酒店_V3"
 out = os.path.join(base, "output", "Report.xlsx")
 wb.save(out)
 print(f"SAVED: {out}")

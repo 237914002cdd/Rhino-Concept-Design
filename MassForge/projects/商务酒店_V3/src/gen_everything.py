@@ -232,7 +232,7 @@ print(f"CREATED: {t} objects")
 full_code = rhino_code + a_code + b_code + c_code + layer_color_code
 
 # Write to temp file to avoid shell quoting issues
-script_path = "D:/claude code mode/files/H2_Arch/projects/商务酒店_V3/_rhino_gen.py"
+script_path = "D:/claude code mode/files/MassForge/projects/商务酒店_V3/_rhino_gen.py"
 
 # For Rhino execution, we need it on one line or as a file
 # Rhino script tool takes multiline strings, so just write to temp and display

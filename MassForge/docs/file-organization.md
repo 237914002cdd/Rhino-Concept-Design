@@ -1,13 +1,13 @@
-# H2_Arch — 文件组织规范
+# MassForge — 文件组织规范
 
 ## 目录结构
 
 ```
-H2_Arch/
+MassForge/
 │
 ├── 1_面试准备/                        # 面试模拟文档（4份 DOCX）
-│   ├── H2_Arch_面试完全准备手册_陈政堡.docx
-│   ├── H2_Arch_面试Q&A升级版_学习路径规划_陈政堡.docx
+│   ├── MassForge_面试完全准备手册_陈政堡.docx
+│   ├── MassForge_面试Q&A升级版_学习路径规划_陈政堡.docx
 │   ├── ComfyUI_建筑立面工作流_速通手册.docx
 │   └── AIx建筑概念设计助手_可行性产品方案.docx
 │

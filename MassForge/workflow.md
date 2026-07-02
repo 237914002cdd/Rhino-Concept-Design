@@ -1,13 +1,13 @@
 ---
 name: h2-arch-workflow-v4
-description: H2_Arch 概念设计工作流 V4.0 协议——7步流程+7条铁律+目录规范，通用各种建筑类型
+description: MassForge 概念设计工作流 V4.0 协议——7步流程+7条铁律+目录规范，通用各种建筑类型
 metadata: 
   node_type: memory
   type: project
   originSessionId: 03f369f9-3f8e-45ca-b68b-08d9a0e49365
 ---
 
-## H2_Arch 概念设计工作流 V4.0 — 完整执行指引
+## MassForge 概念设计工作流 V4.0 — 完整执行指引
 
 ### 完整流程概要
 

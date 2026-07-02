@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-H2_Arch/                        # 核心引擎
+MassForge/                        # 核心引擎
 ├── workflow.md                 # 7 步工作流 V4
 ├── engine/                     # 规则引擎
 │   ├── rules.md                # 类型学诊断、母题库
@@ -18,7 +18,7 @@ H2_Arch/                        # 核心引擎
 ## 快速开始
 
 1. 准备任务书 + 红线图 PDF
-2. 按 `H2_Arch/workflow.md` 的 7 步执行
+2. 按 `MassForge/workflow.md` 的 7 步执行
 3. 所有体块计算在 Python 完成，通过 RhinoMCP 生成
 
 ## 技术栈

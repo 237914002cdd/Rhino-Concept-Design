@@ -172,5 +172,5 @@ for name, area, w, d, h, rgb, layer in A_boxes:
     ALL_OBJECTS.append(obj)
 
 json.dump({"objects": ALL_OBJECTS}, open(
-    "D:/claude code mode/files/H2_Arch/projects/商务酒店_V3/output/_rhino_objects.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
+    "D:/claude code mode/files/MassForge/projects/商务酒店_V3/output/_rhino_objects.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
 print(f"Wrote {len(ALL_OBJECTS)} objects to JSON")

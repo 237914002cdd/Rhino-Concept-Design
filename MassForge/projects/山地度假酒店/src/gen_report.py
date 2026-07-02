@@ -100,7 +100,7 @@ ws2.column_dimensions['A'].width = 24
 ws2.column_dimensions['B'].width = 50
 
 # Save
-base = "D:/claude code mode/files/H2_Arch/projects/山地度假酒店"
+base = "D:/claude code mode/files/MassForge/projects/山地度假酒店"
 out = os.path.join(base, "output", "Report.xlsx")
 wb.save(out)
 print(f"SAVED: {out}")

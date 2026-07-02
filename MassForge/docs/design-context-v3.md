@@ -1,6 +1,6 @@
 # 商务酒店建筑设计 — 核心上下文与设计规则 V3.0
 
-> 本文件为 H2_Arch 概念设计工作流的核心设计依据，与 `.rhino-rules.md`、`project_config.json` 共同构成完整的设计上下文。
+> 本文件为 MassForge 概念设计工作流的核心设计依据，与 `.rhino-rules.md`、`project_config.json` 共同构成完整的设计上下文。
 
 ---
 
