@@ -80,6 +80,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | clawd-on-desk | `clawd-on-desk/` | 开发中 | 桌面应用（补文档中） |
 | autovoice | `D:\claude-code-mode\autovoice\` | 运行中 | AutoHotkey 语音输入工具 |
 | claude-pet | `claude-pet/` | 孵化中 | Electron 桌面宠物（像素螃蟹） |
+| H2_Arch | `H2_Arch/` | 开发中 | RhinoMCP 概念设计工作流（商务酒店案例） |
 
 ## 常用路径
 
